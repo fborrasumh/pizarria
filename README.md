@@ -43,7 +43,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. y Urbán Infantes, T. (2026). *PizarrIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. y Urbán Infantes, T. (2026). *PizarrIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23236536](https://doi.org/10.5281/zenodo.23236536)
 
 ## Licencia
 
